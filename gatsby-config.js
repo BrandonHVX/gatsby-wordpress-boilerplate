@@ -27,7 +27,7 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
       options: {
         baseUrl: `0zx.d76.myftpupload.com`,
-        protocol: `http`,
+        protocol: `https`,
         hostingWPCOM: false,
       },
     },
