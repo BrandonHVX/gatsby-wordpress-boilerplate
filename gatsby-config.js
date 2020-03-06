@@ -28,7 +28,7 @@ module.exports = {
       options: {
         baseUrl: `0zx.d76.myftpupload.com`,
         protocol: `https`,
-        hostingWPCOM: true,
+        hostingWPCOM: flase,
       },
     },
     `gatsby-plugin-react-helmet`,
